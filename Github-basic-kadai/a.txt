@@ -1,1 +1,2 @@
-samurai  txt
+＜ディレクトリ構成＞
+kadai_gifthub
